@@ -12,7 +12,7 @@ I am Iure Vieira Brandão. I am from Brasilia, Brazil and I have a degree in Com
 * Alteryx Certified Professional - Partner Program [Link](https://drive.google.com/file/d/1Fpig0mNcVKffB2CJKnF3_ZJUr_R7426P/view)
 * Alteryx Designer Core Exam [Link](https://s3.us-east-2.amazonaws.com/ayx.certificates/20190324_AlterxDesignerCore9kFVPVTV65kNRdlW6xmMaVnVtNGdNJj5VbPBnVuNGbK12oVRahWOt90MrRVT.pdf)
 
-## ⚡ Technologies
+## :computer: Technologies
 - Front-end development using **React, Vue, AngularJS, HTML, Javascript, CSS**
 - Backend development using **Flask,Django**
 - Database modeling using **PostgreSQL, MySQL, MongoDB**
