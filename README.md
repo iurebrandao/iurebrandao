@@ -15,11 +15,11 @@ I am Iure Vieira Brandão. I am from Brasilia, Brazil and I have a degree in Com
 
 ## :computer: Technologies
 - Front-end development using **React, Vue, AngularJS, HTML, Javascript, CSS**
-- Backend development using **Flask,Django**
+- Backend development using **Flask, Django, Ruby on Rails**
 - Database modeling using **PostgreSQL, MySQL, MongoDB**
 - Robust full-stack system design implementation
 - Mobile application development using **React Native**
-- Creating scalable cloud architecture using **Digital Ocean**
+- Cloud architecture using **Azure, Digital Ocean**
 - Solving Data structure and algorithm questions in **Python**
 
 ![Iure's github stats](https://github-readme-stats.vercel.app/api?username=iurebrandao&hide=["issues"]&show_icons=true)
