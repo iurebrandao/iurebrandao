@@ -2,8 +2,8 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-[![Linkedin Badge](https://img.shields.io/badge/-harshkumarkhatri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iure-vieira-brandão-a6a443147/)](https://www.linkedin.com/in/iure-vieira-brandão-a6a443147/) 
-[![Gmail Badge](https://img.shields.io/badge/-mailharshkhatri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iurebrandao@gmail.com)](mailto:iurebrandao@gmail.com)
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="flexseth"><a class="LI-simple-link" href="https://www.linkedin.com/in/flexseth?trk=profile-badge">Seth Miller</a></div>
 
 I am Iure Vieira Brandão. I am from Brasilia, Brazil and I have a degree in Computer Engineering from University of Brasilia (UnB). 
 
