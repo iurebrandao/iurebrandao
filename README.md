@@ -4,7 +4,7 @@
 
 :link: [LinkedIn](https://www.linkedin.com/in/iure-vieira-brandão-a6a443147/)
 
-📫 [E-mail](mailto:iurebrandao@gmail.com)
+📫 E-mail: iurebrandao@gmail.com [Click here to email me](mailto:iurebrandao@gmail.com)
 
 I am Iure Vieira Brandão. I am from Brasilia, Brazil and I have a degree in Computer Engineering from University of Brasilia (UnB). 
 
