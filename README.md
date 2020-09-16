@@ -19,7 +19,7 @@ I am Iure Vieira Brandão. I am from Brasilia, Brazil and I have a degree in Com
 - Database modeling using **PostgreSQL, MySQL, MongoDB**
 - Robust full-stack system design implementation
 - Mobile application development using **React Native**
-- Cloud architecture using **Azure, Digital Ocean**
+- Cloud architecture using **AWS and Digital Ocean**
 - Solving Data structure and algorithm questions in **Python**
 
 ![Iure's github stats](https://github-readme-stats.vercel.app/api?username=iurebrandao&hide=["issues"]&show_icons=true)
