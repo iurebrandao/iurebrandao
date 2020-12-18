@@ -6,7 +6,7 @@
 
 📫 E-mail: iurebrandao@gmail.com
 
-I am Iure Vieira Brandão. I am from Brasilia, Brazil and I have a degree in Computer Engineering from University of Brasilia (UnB). 
+My name is Iure Vieira Brandão, I'm from Brasilia, Brazil and I have a degree in Computer Engineering from University of Brasilia (UnB). 
 
 ## :trophy: Certificates
 * Tableau Desktop Specialist [(Link)](https://www.youracclaim.com/badges/0811d45d-fe11-4d51-a45f-f1a27e002b8c/linked_in_profile)
