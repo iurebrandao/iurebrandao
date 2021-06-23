@@ -2,10 +2,6 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-:link: [LinkedIn](https://www.linkedin.com/in/iure-brandao/)
-
-📫 E-mail: iurebrandao@gmail.com
-
 I'm Iure Vieira Brandão, I have MSc in AI and I'm a graduated Computer Engineer, both from the University of Brasilia (UnB). 
 
 ## :trophy: Certificates
