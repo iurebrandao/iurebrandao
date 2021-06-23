@@ -6,7 +6,7 @@
 
 📫 E-mail: iurebrandao@gmail.com
 
-I'm Iure Vieira Brandão, I have MSc in AI and a degree in Computer Engineering from University of Brasilia (UnB). 
+I'm Iure Vieira Brandão, I have MSc in AI and I'm a graduated Computer Engineer, both from the University of Brasilia (UnB). 
 
 ## :trophy: Certificates
 * Tableau Desktop Specialist [(Link)](https://www.youracclaim.com/badges/0811d45d-fe11-4d51-a45f-f1a27e002b8c/linked_in_profile)
