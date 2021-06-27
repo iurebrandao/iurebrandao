@@ -5,6 +5,8 @@
 I'm Iure Vieira Brandão, I have MSc in AI and I'm a graduated Computer Engineer, both from the University of Brasilia (UnB). 
 
 ## :trophy: Certificates
+
+![AWS Cloud Practioner](https://github.com/iurebrandao/iurebrandao/blob/master/aws.png)
 * Tableau Desktop Specialist [(Link)](https://www.youracclaim.com/badges/0811d45d-fe11-4d51-a45f-f1a27e002b8c/linked_in_profile)
 * Alteryx Certified Professional - Partner Program [(Link)](https://drive.google.com/file/d/1Fpig0mNcVKffB2CJKnF3_ZJUr_R7426P/view)
 * Alteryx Designer Core Exam [(Link)](https://s3.us-east-2.amazonaws.com/ayx.certificates/20190324_AlterxDesignerCore9kFVPVTV65kNRdlW6xmMaVnVtNGdNJj5VbPBnVuNGbK12oVRahWOt90MrRVT.pdf)
