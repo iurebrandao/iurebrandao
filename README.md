@@ -7,9 +7,9 @@ I'm Iure Vieira Brandão, I have MSc in AI and I'm a graduated Computer Engineer
 ## :trophy: Certificates
 
 <a href="https://imgur.com/8qdni8Q"><img src="https://i.imgur.com/8qdni8Q.png" title="source: imgur.com" width="120"/></a>
-* Tableau Desktop Specialist [(Link)](https://www.youracclaim.com/badges/0811d45d-fe11-4d51-a45f-f1a27e002b8c/linked_in_profile)
-* Alteryx Certified Professional - Partner Program [(Link)](https://drive.google.com/file/d/1Fpig0mNcVKffB2CJKnF3_ZJUr_R7426P/view)
-* Alteryx Designer Core Exam [(Link)](https://s3.us-east-2.amazonaws.com/ayx.certificates/20190324_AlterxDesignerCore9kFVPVTV65kNRdlW6xmMaVnVtNGdNJj5VbPBnVuNGbK12oVRahWOt90MrRVT.pdf)
+<a href="https://imgur.com/Qmx9R82"><img src="https://i.imgur.com/Qmx9R82.png" title="source: imgur.com" width="120"/></a>
+<a href="https://imgur.com/p86H4as"><img src="https://i.imgur.com/p86H4as.png" title="source: imgur.com" width="120"/></a>
+<a href="https://imgur.com/MNI6Pp0"><img src="https://i.imgur.com/MNI6Pp0.png" title="source: imgur.com" width="120"/></a>
 
 ## :computer: Technologies
 - Front-end development using **React, Vue, AngularJS, HTML, Javascript, CSS**
