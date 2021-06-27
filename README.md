@@ -9,7 +9,7 @@ I'm Iure Vieira Brandão, I have MSc in AI and I'm a graduated Computer Engineer
 <a href="https://imgur.com/8qdni8Q"><img src="https://i.imgur.com/8qdni8Q.png" title="source: imgur.com" width="120"/></a>
 <a href="https://imgur.com/Qmx9R82"><img src="https://i.imgur.com/Qmx9R82.png" title="source: imgur.com" width="110"/></a>
 <a href="https://imgur.com/p86H4as"><img src="https://i.imgur.com/p86H4as.png" title="source: imgur.com" width="110"/></a>
-<a href="https://imgur.com/MNI6Pp0"><img src="https://i.imgur.com/MNI6Pp0.png" title="source: imgur.com" width="110"/></a>
+<a href="https://imgur.com/MNI6Pp0"><img src="https://i.imgur.com/MNI6Pp0.png" title="source: imgur.com" width="90" height="140"/></a>
 
 ## :computer: Technologies
 - Front-end development using **React, Vue, AngularJS, HTML, Javascript, CSS**
