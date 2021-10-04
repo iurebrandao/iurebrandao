@@ -6,7 +6,7 @@ I'm Iure Vieira Brandão, I have MSc in AI and I'm also a graduated Computer Eng
 
 ## :trophy: Certificates
 
-<a href="https://www.credly.com/badges/b28f022a-a8d3-4f85-aee8-5c956564d526"><img src="https://imgur.com/7GAVrKl" title="source: imgur.com" width="120"/></a>
+<a href="https://www.credly.com/badges/b28f022a-a8d3-4f85-aee8-5c956564d526"><img src="https://imgur.com/7GAVrKl.png" title="source: imgur.com" width="120"/></a>
 <a href="https://www.credly.com/badges/c1388946-34c9-45b7-9fa4-78a2b0c3ab22"><img src="https://i.imgur.com/8qdni8Q.png" title="source: imgur.com" width="120"/></a>
 <a href="https://www.credly.com/badges/0811d45d-fe11-4d51-a45f-f1a27e002b8c/linked_in_profile"><img src="https://i.imgur.com/Qmx9R82.png" title="source: imgur.com" width="110"/></a>
 <a href="https://drive.google.com/file/d/1Fpig0mNcVKffB2CJKnF3_ZJUr_R7426P/view"><img src="https://i.imgur.com/p86H4as.png" title="source: imgur.com" width="110"/></a>
