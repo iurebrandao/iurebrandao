@@ -1,8 +1,9 @@
 <h2> Hello there! Welcome to my profile</h2>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-
 I'm Iure Vieira Brandão, I have MSc in AI and I'm also a graduated Computer Engineer, both from the University of Brasilia (UnB). 
+
+  <a href="https://www.linkedin.com/in/iure-brandao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
 
 ## :trophy: Certificates
 
